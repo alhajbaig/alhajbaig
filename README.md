@@ -1,91 +1,77 @@
-<h1 align="center">Hi 👋, I'm Alhaj</h1>
+<h1 align="center">Hi 👋, I'm Alhaj Baig</h1>
 
 <h3 align="center">
-🚀 Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python Developer | Building the Future with AI
+🚀 Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python Developer | Future AI Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Future+AI+Engineer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Always+Growing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Building+Real-World+AI+Solutions;Future+AI+Engineer;Always+Learning+Always+Building+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=alhajbaig&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 # 🌟 About Me
 
-I am a passionate **Computer Science Engineering student** driven by curiosity, innovation, and the endless possibilities of technology.
+I am a passionate **Computer Science Engineering student** with a deep interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-My journey in tech started with writing simple Python programs and gradually evolved into exploring the fascinating world of **Artificial Intelligence, Machine Learning, Data Science, and Software Engineering**.
+My journey into technology started with curiosity and has gradually evolved into a mission to build intelligent systems that can solve real-world problems.
 
-Today, I spend most of my time learning, building projects, experimenting with new technologies, and improving my problem-solving skills.
+I enjoy learning new technologies, building impactful projects, participating in hackathons, and continuously improving my technical and problem-solving skills.
+
+Currently, I am focused on expanding my knowledge in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🐍 Python Programming
+- 💻 Software Engineering
+- ☁️ Cloud Technologies
+- 🚀 Generative AI
 
 I strongly believe that:
 
-> **Technology is most powerful when it helps people solve real-world problems.**
-
-My long-term goal is to become an AI Engineer capable of designing intelligent systems that make a meaningful impact on education, healthcare, career guidance, and society.
+> **"The best way to learn technology is by building with it."**
 
 ---
 
-# 🚀 What I'm Currently Working On
+# 🚀 Current Focus
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🌱 Currently Learning
 
-- Learning ML algorithms from fundamentals
-- Exploring Deep Learning concepts
-- Understanding Generative AI systems
-- Building practical AI-powered applications
-- Working on real-world datasets
-
-### 🐍 Python Development
-
-- Advanced Python Programming
-- Object-Oriented Programming
+- Machine Learning
+- Generative AI
+- Deep Learning Fundamentals
+- Data Structures & Algorithms
 - NumPy
 - Pandas
-- Data Analysis
-- Automation Projects
-
-### 💻 Software Engineering
-
-- Writing cleaner code
-- Understanding software architecture
-- Building scalable applications
-- Learning best development practices
-
-### 📚 Continuous Learning
-
-Currently learning and exploring:
-
-✔ Machine Learning
-
-✔ Generative AI
-
-✔ Data Structures & Algorithms
-
-✔ Linux
-
-✔ Shell Scripting
-
-✔ Open Source Development
-
-✔ Problem Solving
-
-✔ Cloud Technologies
+- Scikit-Learn
+- Linux
+- Shell Scripting
+- Software Engineering Principles
 
 ---
 
-# 🎯 My Mission
+# 🎯 Mission
 
-I don't want to just learn technology.
+My goal is to become an AI Engineer capable of building intelligent systems that create meaningful impact.
 
 I want to:
 
-- Build useful products
-- Solve meaningful problems
-- Create intelligent systems
-- Help people through technology
-- Contribute to the AI community
-- Keep learning throughout my career
+✅ Build innovative AI-powered applications
+
+✅ Solve real-world problems through technology
+
+✅ Contribute to Open Source
+
+✅ Participate in Hackathons
+
+✅ Learn continuously
+
+✅ Create products that help people
 
 ---
 
@@ -93,34 +79,45 @@ I want to:
 
 ## 🎓 AI Career Mentor
 
-An AI-powered career guidance platform designed to help students discover their ideal career path.
+An AI-powered career guidance platform designed to help students identify suitable career paths based on their skills, interests, aptitude, and learning progress.
 
-### Key Features
+### Features
 
-✨ Career Recommendations
+- Personalized Career Recommendations
+- Skill Gap Analysis
+- Learning Roadmaps
+- Resume Evaluation
+- Career Readiness Assessment
+- AI-Powered Guidance
 
-✨ Skill Gap Analysis
+### Technologies Used
 
-✨ Personalized Learning Roadmaps
-
-✨ Resume Assessment
-
-✨ AI-Powered Guidance
-
-✨ Career Readiness Evaluation
+- Python
+- Machine Learning
+- Scikit-Learn
+- Data Analytics
+- Generative AI
 
 ### What I Learned
 
-Through this project, I gained hands-on experience with:
+Through this project, I gained practical experience in:
 
-- Machine Learning Concepts
-- Data Processing
-- AI Integration
-- Model Development
-- Problem Solving
-- Full Project Development Lifecycle
+- Applying Machine Learning concepts
+- Data preprocessing and analysis
+- Problem-solving using AI
+- Model development
+- Project planning and implementation
 
-This project strengthened my understanding of how AI can be used to solve real-world educational and career challenges.
+---
+
+# 🏆 Achievements
+
+- 🎯 Building AI-powered projects
+- 🎯 Actively learning Machine Learning and Generative AI
+- 🎯 Completed AI learning programs and certifications
+- 🎯 Exploring real-world AI applications
+- 🎯 Continuously improving problem-solving skills
+- 🎯 Building projects to strengthen practical knowledge
 
 ---
 
@@ -147,6 +144,8 @@ This project strengthened my understanding of how AI can be used to solve real-w
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+### Libraries & Technologies
 
 - NumPy
 - Pandas
@@ -183,54 +182,56 @@ This project strengthened my understanding of how AI can be used to solve real-w
 - Linux
 - Docker
 - Firebase
-- Google Cloud
+- Google Cloud Platform
 
 ---
 
-# 📖 My Learning Journey
+# 📚 Learning Journey
 
-### Phase 1️⃣
+### Phase 1
 
 Started with:
 
-- Basic Programming
-- Python Fundamentals
+- Programming Fundamentals
+- Python Basics
+- Logic Building
 - Problem Solving
 
-### Phase 2️⃣
+### Phase 2
 
 Explored:
 
+- Object-Oriented Programming
 - Data Structures
 - Algorithms
-- Object-Oriented Programming
+- Software Development Concepts
 
-### Phase 3️⃣
+### Phase 3
 
-Dived into:
+Moved into:
 
-- Data Science
+- Data Analysis
 - NumPy
 - Pandas
-- Data Analytics
+- Data Science Fundamentals
 
-### Phase 4️⃣
+### Phase 4 (Current)
 
-Currently focused on:
+Focused on:
 
 - Machine Learning
 - Generative AI
-- Real-world Projects
-- AI Product Development
+- Real-World AI Projects
+- Career-Oriented Development
 
-### Future Goals
+### Future Learning Goals
 
 - Deep Learning
 - Computer Vision
-- NLP
+- Natural Language Processing
 - MLOps
 - AI Research
-- Open Source Contributions
+- Advanced System Design
 
 ---
 
@@ -252,27 +253,26 @@ Currently focused on:
 
 🚀 Emerging Technologies
 
-🎓 Educational Technology
-
 🌐 Open Source
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Roadmap
 
-- Build multiple AI projects
-- Strengthen Machine Learning foundations
-- Master Python ecosystem
-- Improve DSA skills
-- Participate in Hackathons
-- Contribute to Open Source
-- Learn Deep Learning
-- Gain practical industry experience
-- Secure AI/ML Internship Opportunities
+- [x] Learn Python Fundamentals
+- [x] Explore NumPy
+- [x] Start Machine Learning Journey
+- [x] Build AI Projects
+- [ ] Master Machine Learning
+- [ ] Learn Deep Learning
+- [ ] Participate in Major Hackathons
+- [ ] Contribute to Open Source
+- [ ] Build Advanced AI Applications
+- [ ] Secure AI/ML Internship
 
 ---
 
-# 💭 Developer Mindset
+# 💻 Developer Mindset
 
 ```python
 while True:
@@ -285,27 +285,24 @@ while True:
 
 ---
 
-# 🏆 What Defines Me
+# 💭 Philosophy
 
-### Curiosity
+> "Consistency beats intensity."
 
-Always eager to understand how things work.
+> "Small improvements every day lead to extraordinary results."
 
-### Consistency
+> "The best project is the one that teaches you something new."
 
-Small progress every day is still progress.
+---
 
-### Growth Mindset
+# ⚡ Fun Facts
 
-Every challenge is an opportunity to learn.
-
-### Creativity
-
-Technology becomes powerful when combined with imagination.
-
-### Persistence
-
-Giving up is never part of the process.
+- 🤖 I can spend hours exploring AI concepts.
+- 🐍 Python is my favorite language.
+- 🚀 I love transforming ideas into projects.
+- 📚 Learning new technologies excites me.
+- ⚽ Football helps me recharge and stay focused.
+- 🐐 Lionel Messi is one of my biggest inspirations.
 
 ---
 
@@ -313,43 +310,50 @@ Giving up is never part of the process.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="YOUR_GITHUB_LINK">
-<img src="https://skillicons.dev/icons?i=github" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/alhajbaig" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/alhaj.bxig" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge" />
-</a>
+</p>
+
+<p align="center">
+
+💼 <b>LinkedIn:</b> https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/
+
+📸 <b>Instagram:</b> @alhaj.bxig
+
+🐙 <b>GitHub:</b> https://github.com/alhajbaig
+
+📧 <b>Email:</b> alhajbaig2006@gmail.com
 
 </p>
 
 ---
 
-# ⚡ Fun Facts
+# 🤝 Let's Collaborate
 
-- 🤖 I can spend hours learning AI concepts.
-- 🐍 Python is my favorite programming language.
-- 🚀 I love turning ideas into projects.
-- 📚 Learning new technologies excites me.
-- 🎯 Every day is an opportunity to improve.
-- ☕ Most bugs disappear after enough debugging.
-- 🌟 Dreaming big and building bigger.
+I'm always interested in:
 
----
+- AI & Machine Learning Projects
+- Open Source Contributions
+- Innovative Ideas
+- Hackathons
+- Research Opportunities
+- Learning Communities
 
-# ✨ Personal Motto
-
-> "Success doesn't come from what you do occasionally.
->
-> It comes from what you do consistently."
+Feel free to connect with me if you'd like to collaborate, discuss technology, share ideas, or build something impactful together.
 
 ---
 
@@ -358,5 +362,9 @@ Giving up is never part of the process.
 </h2>
 
 <h3 align="center">
-Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile! ⭐
 </h3>
+
+<h4 align="center">
+Building the future, one project at a time.
+</h4>
