@@ -1,370 +1,369 @@
-<h1 align="center">Hi 👋, I'm Alhaj Baig</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python Developer | Future AI Engineer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=120&section=header&animation=fadeIn" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Building+Real-World+AI+Solutions;Future+AI+Engineer;Always+Learning+Always+Building+🚀" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=alhajbaig&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HERO SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-# 🌟 About Me
+<br/>
 
-I am a passionate **Computer Science Engineering student** with a deep interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+```
+░█████╗░██╗░░░░░██╗░░██╗░█████╗░░░░██╗  ██████╗░░█████╗░██╗░██████╗░
+██╔══██╗██║░░░░░██║░░██║██╔══██╗░░░██║  ██╔══██╗██╔══██╗██║██╔════╝░
+███████║██║░░░░░███████║███████║░░░██║  ██████╦╝███████║██║██║░░██╗░
+██╔══██║██║░░░░░██╔══██║██╔══██║░░░╚═╝  ██╔══██╗██╔══██║██║██║░░╚██╗
+██║░░██║███████╗██║░░██║██║░░██║██╗██╗  ██████╦╝██║░░██║██║╚██████╔╝
+╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝  ╚═════╝░╚═╝░░╚═╝╚═╝░╚═════╝░
+```
 
-My journey into technology started with curiosity and has gradually evolved into a mission to build intelligent systems that can solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=🤖+AI+%26+Machine+Learning+Engineer+(In+Progress);🐍+Python+Developer+%7C+Data+Science+Explorer;🚀+Building+Real-World+Intelligent+Systems;🧠+CSE+Student+%7C+Nagpur%2C+Maharashtra+🇮🇳;⚡+Learn.+Build.+Fail.+Improve.+Repeat." alt="Typing Animation" />
 
-I enjoy learning new technologies, building impactful projects, participating in hackathons, and continuously improving my technical and problem-solving skills.
+<br/><br/>
 
-Currently, I am focused on expanding my knowledge in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhajbaig)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alhaj.bxig)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhajbaig2006@gmail.com)
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🐍 Python Programming
-- 💻 Software Engineering
-- ☁️ Cloud Technologies
-- 🚀 Generative AI
+<br/>
 
-I strongly believe that:
+![Profile Views](https://komarev.com/ghpvc/?username=alhajbaig&color=58a6ff&style=flat-square&label=👁️+Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/alhajbaig?label=👥+Followers&style=flat-square&color=58a6ff)
 
-> **"The best way to learn technology is by building with it."**
+</div>
 
----
-
-# 🚀 Current Focus
-
-### 🌱 Currently Learning
-
-- Machine Learning
-- Generative AI
-- Deep Learning Fundamentals
-- Data Structures & Algorithms
-- NumPy
-- Pandas
-- Scikit-Learn
-- Linux
-- Shell Scripting
-- Software Engineering Principles
+<br/>
 
 ---
 
-# 🎯 Mission
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   ABOUT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-My goal is to become an AI Engineer capable of building intelligent systems that create meaningful impact.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif"/>
 
-I want to:
-
-✅ Build innovative AI-powered applications
-
-✅ Solve real-world problems through technology
-
-✅ Contribute to Open Source
-
-✅ Participate in Hackathons
-
-✅ Learn continuously
-
-✅ Create products that help people
-
----
-
-# 💡 Featured Project
-
-## 🎓 AI Career Mentor
-
-An AI-powered career guidance platform designed to help students identify suitable career paths based on their skills, interests, aptitude, and learning progress.
-
-### Features
-
-- Personalized Career Recommendations
-- Skill Gap Analysis
-- Learning Roadmaps
-- Resume Evaluation
-- Career Readiness Assessment
-- AI-Powered Guidance
-
-### Technologies Used
-
-- Python
-- Machine Learning
-- Scikit-Learn
-- Data Analytics
-- Generative AI
-
-### What I Learned
-
-Through this project, I gained practical experience in:
-
-- Applying Machine Learning concepts
-- Data preprocessing and analysis
-- Problem-solving using AI
-- Model development
-- Project planning and implementation
-
----
-
-# 🏆 Achievements
-
-- 🎯 Building AI-powered projects
-- 🎯 Actively learning Machine Learning and Generative AI
-- 🎯 Completed AI learning programs and certifications
-- 🎯 Exploring real-world AI applications
-- 🎯 Continuously improving problem-solving skills
-- 🎯 Building projects to strengthen practical knowledge
-
----
-
-# 🛠️ Tech Stack
-
-## Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
-</p>
-
-### Languages
-
-- Python
-- Java
-- C
-- C++
-- SQL
-
----
-
-## AI & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Libraries & Technologies
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Generative AI
-
----
-
-## Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,flask,nodejs" />
-</p>
-
-- HTML
-- CSS
-- Flask
-- Node.js
-
----
-
-## Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,gcp" />
-</p>
-
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-- Firebase
-- Google Cloud Platform
-
----
-
-# 📚 Learning Journey
-
-### Phase 1
-
-Started with:
-
-- Programming Fundamentals
-- Python Basics
-- Logic Building
-- Problem Solving
-
-### Phase 2
-
-Explored:
-
-- Object-Oriented Programming
-- Data Structures
-- Algorithms
-- Software Development Concepts
-
-### Phase 3
-
-Moved into:
-
-- Data Analysis
-- NumPy
-- Pandas
-- Data Science Fundamentals
-
-### Phase 4 (Current)
-
-Focused on:
-
-- Machine Learning
-- Generative AI
-- Real-World AI Projects
-- Career-Oriented Development
-
-### Future Learning Goals
-
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- MLOps
-- AI Research
-- Advanced System Design
-
----
-
-# 🌍 Areas of Interest
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-📊 Data Science
-
-💻 Software Engineering
-
-☁️ Cloud Computing
-
-📈 Data Analytics
-
-🔍 Problem Solving
-
-🚀 Emerging Technologies
-
-🌐 Open Source
-
----
-
-# 🎯 2026 Roadmap
-
-- [x] Learn Python Fundamentals
-- [x] Explore NumPy
-- [x] Start Machine Learning Journey
-- [x] Build AI Projects
-- [ ] Master Machine Learning
-- [ ] Learn Deep Learning
-- [ ] Participate in Major Hackathons
-- [ ] Contribute to Open Source
-- [ ] Build Advanced AI Applications
-- [ ] Secure AI/ML Internship
-
----
-
-# 💻 Developer Mindset
+### ⚡ `> whoami`
 
 ```python
-while True:
-    learn()
-    build()
-    fail()
-    improve()
-    repeat()
+class AlhajBaig:
+
+    name       = "Mirza Alhaj Baig"
+    title      = "CSE Student & AI Engineer (In Making)"
+    location   = "Nagpur, Maharashtra, India 🇮🇳"
+    education  = "Computer Science Engineering"
+
+    passion    = ["Artificial Intelligence",
+                  "Machine Learning",
+                  "Generative AI",
+                  "Data Science"]
+
+    currently  = "Building intelligent systems that matter"
+    open_to    = ["Collaborations", "Hackathons",
+                  "Open Source", "AI Projects"]
+
+    fun_facts  = {
+        "fuel"   : "☕ Code + Curiosity",
+        "sport"  : "⚽ Football",
+        "goat"   : "🐐 Lionel Messi",
+        "lang"   : "🐍 Python Forever"
+    }
+
+    belief = "The best way to learn tech → BUILD with it."
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               CURRENTLY SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🔭 What I'm Up To Right Now
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+```
+✦ Machine Learning Algorithms
+✦ Deep Learning Fundamentals
+✦ Generative AI & LLMs
+✦ NumPy · Pandas · Scikit-Learn
+✦ Data Structures & Algorithms
+✦ Linux & Shell Scripting
+✦ Software Engineering Principles
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 2026 Roadmap
+```
+✅ Python Fundamentals
+✅ Explore NumPy & Pandas
+✅ Start ML Journey
+✅ Build AI Projects
+⬜ Master Machine Learning
+⬜ Learn Deep Learning
+⬜ Win a Hackathon 🏆
+⬜ Contribute to Open Source
+⬜ Secure AI/ML Internship 💼
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               TECH STACK SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI · ML · Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ⚙️ Tools · Platforms · Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              FEATURED PROJECT SECTION                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 💡 Featured Project
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    🎓   A I   C A R E E R   M E N T O R                                 ║
+║                                                                          ║
+║    An AI-powered career guidance platform for students                   ║
+║    — Identify. Analyze. Roadmap. Achieve. —                              ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   🎯  Personalized Career Recommendations                                ║
+║   📊  Skill Gap Analysis & Identification                                ║
+║   🗺️   Custom AI-Generated Learning Roadmaps                             ║
+║   📄  Smart Resume Evaluation Engine                                     ║
+║   ✅  Career Readiness Assessment                                        ║
+║   🤖  End-to-End AI-Powered Guidance                                     ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   Stack: Python · Scikit-Learn · ML Models · Data Analytics · GenAI     ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              GITHUB STATS SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alhajbaig&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alhajbaig&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhajbaig&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--             LEARNING JOURNEY SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🧭 Learning Journey
+
+```
+Phase 1 ──────────────────────────────────────────────────── [COMPLETE ✅]
+│  Python Basics · Logic Building · Problem Solving
+│  Programming Fundamentals · Core CS Concepts
+│
+Phase 2 ──────────────────────────────────────────────────── [COMPLETE ✅]
+│  Object-Oriented Programming · Data Structures
+│  Algorithms · Software Development Concepts
+│
+Phase 3 ──────────────────────────────────────────────────── [COMPLETE ✅]
+│  NumPy · Pandas · Data Analysis
+│  Data Science Fundamentals · Visualization
+│
+Phase 4 ──────────────────────────────────────────────────── [IN PROGRESS 🔥]
+│  Machine Learning · Generative AI
+│  Real-World AI Projects · Career-Focused Dev
+│
+Phase 5 ──────────────────────────────────────────────────── [UPCOMING 🔭]
+   Deep Learning · Computer Vision · NLP
+   MLOps · AI Research · Advanced System Design
 ```
 
 ---
 
-# 💭 Philosophy
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              ACTIVITY GRAPH SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-> "Consistency beats intensity."
+## 📈 Contribution Activity
 
-> "Small improvements every day lead to extraordinary results."
+<div align="center">
 
-> "The best project is the one that teaches you something new."
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alhajbaig&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-# ⚡ Fun Facts
-
-- 🤖 I can spend hours exploring AI concepts.
-- 🐍 Python is my favorite language.
-- 🚀 I love transforming ideas into projects.
-- 📚 Learning new technologies excites me.
-- ⚽ Football helps me recharge and stay focused.
-- 🐐 Lionel Messi is one of my biggest inspirations.
+</div>
 
 ---
 
-# 📫 Connect With Me
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               PHILOSOPHY SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<p align="center">
+## 💭 Philosophy & Mindset
 
-<a href="https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+<div align="center">
 
-&nbsp;&nbsp;&nbsp;
+```python
+# The Loop That Defines Me
 
-<a href="https://github.com/alhajbaig" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+while alive:
+    stay_curious()
+    learn_something_new()
+    build_something_real()
+    embrace_failure()      # ← the most important step
+    iterate_and_improve()
+    share_with_community()
+```
 
-&nbsp;&nbsp;&nbsp;
+> *"Consistency beats intensity."*
 
-<a href="https://instagram.com/alhaj.bxig" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
+> *"Small improvements every day lead to extraordinary results."*
 
-</p>
+> *"The best project is the one that teaches you something new."*
 
-<p align="center">
-
-💼 <b>LinkedIn:</b> https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/
-
-📸 <b>Instagram:</b> @alhaj.bxig
-
-🐙 <b>GitHub:</b> https://github.com/alhajbaig
-
-📧 <b>Email:</b> alhajbaig2006@gmail.com
-
-</p>
+</div>
 
 ---
 
-# 🤝 Let's Collaborate
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                FUN FACTS SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-I'm always interested in:
+## ⚡ Fun Facts About Me
 
-- AI & Machine Learning Projects
-- Open Source Contributions
-- Innovative Ideas
-- Hackathons
-- Research Opportunities
-- Learning Communities
-
-Feel free to connect with me if you'd like to collaborate, discuss technology, share ideas, or build something impactful together.
+```
+🤖  I can spend hours deep-diving into AI concepts — and forget to eat
+🐍  Python isn't just a language to me — it's how I think
+🚀  My favorite thing? Taking a raw idea and turning it into working code
+📚  New technology = instant serotonin boost
+⚽  Football is how I reset my brain — Messi is the GOAT, no debate 🐐
+🌙  Best ideas hit at 2AM (send help)
+```
 
 ---
 
-<h2 align="center">
-🚀 Learn • Build • Innovate • Repeat 🚀
-</h2>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               CONNECT SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+## 🤝 Let's Build Something Together
 
-<h4 align="center">
-Building the future, one project at a time.
-</h4>
+<div align="center">
+
+I'm always open to connecting with like-minded people — whether it's an AI project,
+a hackathon, an open source idea, or just a good tech conversation.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-alhaj-baig-49b250308/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhajbaig)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alhaj.bxig)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhajbaig2006@gmail.com)
+
+<br/>
+
+```
+💡 Open to:  AI & ML Projects  ·  Hackathons  ·  Open Source  ·  Internships
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+██╗     ███████╗ █████╗ ██████╗ ███╗  ██╗    ██████╗ ██╗   ██╗██╗██╗     ██████╗
+██║     ██╔════╝██╔══██╗██╔══██╗████╗ ██║    ██╔══██╗██║   ██║██║██║     ██╔══██╗
+██║     █████╗  ███████║██████╔╝██╔██╗██║    ██████╔╝██║   ██║██║██║     ██║  ██║
+██║     ██╔══╝  ██╔══██║██╔══██╗██║╚████║    ██╔══██╗██║   ██║██║██║     ██║  ██║
+███████╗███████╗██║  ██║██║  ██║██║ ╚███║    ██████╔╝╚██████╔╝██║███████╗██████╔╝
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝   ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝
+```
+
+**🚀 Learn • Build • Innovate • Repeat 🚀**
+
+*Building the future, one commit at a time.*
+
+⭐ **If you found this profile interesting, drop a star on my repos!** ⭐
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0a0a0f&height=100&section=footer&animation=fadeIn" />
+
+</div>
