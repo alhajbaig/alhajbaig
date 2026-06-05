@@ -1,18 +1,276 @@
 <h1 align="center">Hi 👋, I'm Alhaj Baig</h1>
-<h3 align="center">I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy building real-world projects, learning new technologies, and continuously improving my problem-solving skills</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
-- 📫 How to reach me **alhajbaig2006@gmail.com**
+<h3 align="center">
+🚀 Computer Science Engineering Student | AI & Machine Learning Enthusiast | Python Developer | Future AI Engineer
+</h3>
 
-- ⚡ Fun fact **I am a Machine learning enthusiast and exploring the world of AI while playing Football and admiring messi**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza-alhaj-baig-49b250308" height="30" width="40" /></a>
-<a href="https://kaggle.com/alhajbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alhajbaig" height="30" width="40" /></a>
-<a href="https://instagram.com/alhaj.bxig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alhaj.bxig" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Python+Developer;Building+Real-World+AI+Solutions;Always+Learning+Something+New+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+# 💫 About Me
+
+I am a passionate **Computer Science Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+
+My journey into technology started with curiosity about how intelligent systems work and has evolved into building real-world projects that solve practical problems.
+
+I enjoy transforming ideas into applications, exploring new technologies, participating in hackathons, and continuously improving my problem-solving abilities.
+
+Currently, I am focused on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🐍 Python Development
+- 📈 Data Analysis
+- 💻 Software Engineering
+- ⚙️ Automation
+- ☁️ Cloud Technologies
+
+I strongly believe that technology becomes truly impactful when it solves real problems for real people.
+
+---
+
+# 🚀 Current Focus
+
+### 🌱 Learning
+
+- Machine Learning Algorithms
+- Deep Learning Fundamentals
+- Generative AI
+- Data Structures & Algorithms
+- Advanced Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- Linux & Shell Scripting
+- Git & GitHub
+
+---
+
+# 🎯 Career Objective
+
+My goal is to become an AI Engineer capable of designing intelligent systems that positively impact education, healthcare, career guidance, and productivity.
+
+I am actively working on:
+
+✔ Building AI-powered applications
+
+✔ Strengthening ML foundations
+
+✔ Contributing to Open Source
+
+✔ Participating in Hackathons
+
+✔ Developing industry-ready projects
+
+✔ Preparing for AI/ML internships
+
+---
+
+# 💡 Featured Project
+
+## 🎓 AI Career Mentor
+
+An AI-powered career guidance platform designed to help students make informed career decisions.
+
+### Features
+
+- Skill Gap Analysis
+- Resume Evaluation
+- Career Path Recommendation
+- Learning Roadmap Generation
+- AI-Powered Guidance
+- Personalized Suggestions
+
+### Technologies Used
+
+- Python
+- Machine Learning
+- Scikit-Learn
+- Data Analytics
+- Generative AI
+
+This project helped me understand practical applications of Artificial Intelligence while strengthening my knowledge of Machine Learning concepts and model integration.
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+</p>
+
+### Languages I Work With
+
+- Python
+- Java
+- C
+- C++
+- SQL
+
+---
+
+## AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- Machine Learning
+- Data Preprocessing
+- Data Visualization
+- Model Evaluation
+- Generative AI
+
+---
+
+## Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,flask" />
+</p>
+
+- HTML
+- CSS
+- Flask
+- Node.js
+
+---
+
+## Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,gcp" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Docker
+- Firebase
+- Google Cloud
+
+---
+
+# 📚 What I'm Learning Right Now
+
+```python
+learning = [
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "Python",
+    "NumPy",
+    "Data Structures & Algorithms",
+    "Linux",
+    "Open Source Development"
+]
+
+for skill in learning:
+    print("Improving:", skill)
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements & Learning Journey
+
+- 🎯 Building AI-powered applications
+- 🎯 Completed multiple AI and Machine Learning courses
+- 🎯 Exploring Generative AI
+- 🎯 Practicing Data Structures & Algorithms
+- 🎯 Learning Software Engineering Principles
+- 🎯 Actively participating in technical communities
+- 🎯 Continuously building projects to improve practical skills
+
+---
+
+# 🌍 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- Software Engineering
+- Computer Vision
+- Natural Language Processing
+- Career Technology Solutions
+- Open Source Development
+
+---
+
+# 📖 My Philosophy
+
+> "Every expert was once a beginner.
+> Consistency beats talent when talent doesn't work consistently."
+
+I focus on learning by building.
+
+Every project teaches something new.
+Every challenge develops a new skill.
+Every failure becomes a lesson.
+
+---
+
+# 📫 Connect With Me
+
+### Let's connect and build something amazing together!
+
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+</a>
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+- 🤖 I can spend hours exploring AI concepts.
+- 📚 I love learning new technologies.
+- 💡 I enjoy building projects from scratch.
+- 🚀 Always looking for the next challenge.
+- 🎯 Turning ideas into reality one project at a time.
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<h4 align="center">
+Let's learn, build, and innovate together 🚀
+</h4>
