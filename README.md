@@ -1,452 +1,227 @@
-<div align="center">
+<h1 align="center">Mirza Alhaj Baig</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,30:0a0f2e,65:0d1854,100:060612&height=300&section=header&text=Mirza%20Alhaj%20Baig&fontSize=74&fontColor=ffffff&fontAlignY=43&fontStyle=bold&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20Making%20%20%C2%B7%20%20CSE%20Student%20%20%C2%B7%20%20Nagpur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=15&descAlignY=65&descColor=93c5fd&animation=fadeIn" />
+<p align="center">
+  <em>AI & Machine Learning Engineer in the Making &nbsp;·&nbsp; CSE Student &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Nagpur, India 🇮🇳</em>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=32&lines=Building+intelligent+systems+that+matter.;Curiosity+first.+Code+second.+Ship+always.;Student+by+day.+Builder+by+2AM." alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1000&color=60A5FA&center=true&vCenter=true&width=740&height=48&lines=Building+intelligent+systems+that+matter+%F0%9F%A7%A0;Machine+Learning+%C2%B7+Generative+AI+%C2%B7+Data+Science;Curiosity+first.+Code+second.+Ship+always.+%F0%9F%9A%80;Student+by+day.+Builder+by+2AM.+%F0%9F%8C%99;The+best+way+to+learn+%E2%86%92+build+something+real." alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060612?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/mirza-alhaj-baig-49b250308)&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-060612?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://kaggle.com/alhajbaig)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-060612?style=for-the-badge&logo=instagram&logoColor=60a5fa)](https://instagram.com/alhaj.bxig)&nbsp;[![Email](https://img.shields.io/badge/Email-060612?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:alhajbaig2006@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=alhajbaig&color=60a5fa&style=flat-square&label=Profile+Views" />&ensp;<img src="https://img.shields.io/github/followers/alhajbaig?label=Followers&style=flat-square&color=93c5fd" />
-
-<br/><br/>
-
-<sub>✦ &ensp; A I &ensp; · &ensp; M A C H I N E &ensp; L E A R N I N G &ensp; · &ensp; D A T A &ensp; S C I E N C E &ensp; · &ensp; P Y T H O N &ensp; ✦</sub>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ═══════════════════════  01 · ABOUT  ═══════════════════════  -->
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
-## &ensp;`01` &ensp;The Person
-
-<br/>
-
-I'm **Mirza Alhaj Baig** — a Computer Science Engineering student from **Nagpur, Maharashtra, India**, building my way toward becoming an AI Engineer.
-
-My story started with a single line of Python and a question: *what else can this do?* That question hasn't stopped since. I now live at the intersection of **Machine Learning**, **Generative AI**, and **Data Science** — not just studying them, but actively building with them.
-
-I believe the gap between *learning* and *doing* is where most people get stuck. I try not to get stuck there.
-
-Off the screen: **football** ⚽ clears my head, **Messi** 🐐 is the greatest of all time (not a discussion), and my sharpest ideas consistently arrive at **2AM** — which is a feature, not a bug.
-
-<br/>
-
-> *"The best way to learn technology is to open a file,*
-> *write the first line, and build — not plan it to death."*
-
-</td>
-<td width="4%"></td>
-<td width="38%" valign="top">
-
-<br/><br/>
-
-```yaml
-# identity.yml
-
-name:      Mirza Alhaj Baig
-role:      AI Engineer (in progress)
-location:  Nagpur, India 🇮🇳
-degree:    Computer Science Engineering
-
-focus:
-  - Machine Learning
-  - Generative AI
-  - Data Science
-  - Python Development
-
-status:    builder + student mode 🔥
-fuel:      chai + curiosity + 2AM ☕🌙
-sport:     Football ⚽
-goat:      Messi 🐐
-motto:     Build it. Break it. Learn.
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/alhajbaig">
+    <img src="https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/alhaj.bxig">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:alhajbaig2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=alhajbaig&style=flat-square&color=3b82f6&label=Views" />
+</p>
 
 ---
 
-<br/>
+## About
 
-<!--  ═══════════════════════  02 · SKILLS  ══════════════════════  -->
+I'm a Computer Science Engineering student from **Nagpur, India**, focused on becoming an AI Engineer. My path started with a single Python script and a lot of curiosity — both of which haven't stopped since.
 
-## &ensp;`02` &ensp;Craft & Tools
+I work at the intersection of **Machine Learning**, **Generative AI**, and **Data Science**. I don't just study these fields — I build with them. The gap between learning and doing is where most people stall. I try not to.
 
-<br/>
+Outside of code: football ⚽ clears my head, **Messi** is the GOAT 🐐, and my best ideas show up at **2AM** — a feature, not a bug.
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,postgresql&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="25%">
-
-**AI · ML · DATA**
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark&perline=3" />
-
-<br/>
-
-![NumPy](https://img.shields.io/badge/NumPy-0a0f2e?style=flat-square&logo=numpy&logoColor=60a5fa)
-![Pandas](https://img.shields.io/badge/Pandas-0a0f2e?style=flat-square&logo=pandas&logoColor=60a5fa)
-![Seaborn](https://img.shields.io/badge/Seaborn-0a0f2e?style=flat-square&logo=python&logoColor=60a5fa)
-![GenAI](https://img.shields.io/badge/GenAI-0a0f2e?style=flat-square&logo=openai&logoColor=60a5fa)
-
-</td>
-<td align="center" width="25%">
-
-**WEB & DESIGN**
-
-<img src="https://skillicons.dev/icons?i=html,css,flask,nodejs,figma&theme=dark&perline=3" />
-
-<br/>
-
-![Photoshop](https://img.shields.io/badge/Photoshop-0a0f2e?style=flat-square&logo=adobephotoshop&logoColor=60a5fa)
-![Blender](https://img.shields.io/badge/Blender-0a0f2e?style=flat-square&logo=blender&logoColor=60a5fa)
-
-</td>
-<td align="center" width="25%">
-
-**TOOLS & CLOUD**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,gcp&theme=dark&perline=3" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+> *"The best way to learn technology — open a file, write the first line, and build."*
 
 ---
 
-<br/>
+## Tech Stack
 
-<!--  ═══════════════════════  03 · PROFICIENCY  ══════════════════  -->
+**Languages**
 
-## &ensp;`03` &ensp;Proficiency
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br/>
+**AI · Machine Learning · Data Science**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Scikit--Learn-f7931e?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
 
-| &ensp;&ensp; | Skill | &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Bar &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; | % | Level |
-|:---:|:---|:---|:---:|:---:|
-| 🐍 | Python | `█████████████████████` | 95 | Expert |
-| 📊 | Data Science | `████████████████░░░░░` | 75 | Advanced |
-| 🤖 | Machine Learning | `██████████████░░░░░░░` | 70 | Growing |
-| 🌐 | Web Dev · Flask | `████████████░░░░░░░░░` | 60 | Intermediate |
-| 🧠 | Generative AI | `██████████░░░░░░░░░░░` | 50 | Building |
-| 🐧 | Linux · DevOps | `█████████████░░░░░░░░` | 65 | Capable |
-| 🎨 | Figma · Design | `███████████░░░░░░░░░░` | 55 | Solid |
-| 🔬 | Deep Learning | `███████░░░░░░░░░░░░░░` | 35 | Early Stage |
+**Web & Backend**
 
-</div>
+![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<br/>
+**Design**
 
----
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-e87d0d?style=flat-square&logo=blender&logoColor=white)
 
-<br/>
+**Tools & Cloud**
 
-<!--  ═══════════════════════  04 · PROJECT  ════════════════════════  -->
-
-## &ensp;`04` &ensp;Featured Project
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    🎓   A I   C A R E E R   M E N T O R                                 ║
-║                                                                          ║
-║    "Because every student deserves a clear path forward."                ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   PROBLEM  →  Students feel lost about their career paths               ║
-║   SOLUTION →  An AI platform that guides them from confused to ready     ║
-║                                                                          ║
-╠════════════════════════ FEATURES ════════════════════════════════════════╣
-║                                                                          ║
-║   ◉  Recommends career paths based on skills & interests                 ║
-║   ◉  Identifies skill gaps before they become roadblocks                 ║
-║   ◉  Generates personalized AI-powered learning roadmaps                 ║
-║   ◉  Smart resume evaluation with career readiness score                 ║
-║   ◉  Guides students from lost  →  launched                             ║
-║                                                                          ║
-╠════════════════════════ STACK ═══════════════════════════════════════════╣
-║                                                                          ║
-║   Python  ·  Scikit-Learn  ·  Pandas  ·  Data Analytics  ·  GenAI      ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-<br/>
+## Proficiency
 
-<!--  ═══════════════════════  05 · JOURNEY  ═══════════════════════  -->
-
-## &ensp;`05` &ensp;The Journey
-
-<br/>
-
-<div align="center">
-
-```
- TIMELINE ──────────────────────────────────────────────────────────────────
-
-  📍 2022  ──▶  FOUNDATIONS
-               First line of Python. Completely hooked.
-               Logic · Problem Solving · Programming Fundamentals
-
-  📍 2023  ──▶  CORE COMPUTER SCIENCE
-               Going deeper into the fundamentals.
-               OOP · Data Structures · Algorithms · Java · C++
-
-  📍 2024  ──▶  DATA AWAKENING
-               Discovered Data Science. Mind completely blown.
-               NumPy · Pandas · Visualization · Statistics · EDA
-
-  📍 NOW   ──▶  MACHINE INTELLIGENCE  🔥
-               Learning ML, building with GenAI, shipping projects.
-               Scikit-Learn · ML Models · Generative AI · Real Projects
-
-  📍 NEXT  ──▶  THE FRONTIER  🔭
-               The chapter I'm actively building toward.
-               Deep Learning · NLP · Computer Vision · MLOps · Scale
-
- ────────────────────────────────────────────────────────────────────────────
-```
-
-</div>
-
-<br/>
+| Skill | Progress | Level |
+|:------|:---------|:-----:|
+| 🐍 Python | `█████████████████████` 95% | Expert |
+| 📊 Data Science | `████████████████░░░░░` 75% | Advanced |
+| 🤖 Machine Learning | `██████████████░░░░░░░` 70% | Intermediate+ |
+| 🌐 Web Dev · Flask | `████████████░░░░░░░░░` 60% | Intermediate |
+| 🧠 Generative AI | `██████████░░░░░░░░░░░` 50% | Growing |
+| 🐧 Linux · DevOps | `█████████████░░░░░░░░` 65% | Capable |
+| 🎨 Figma · Design | `███████████░░░░░░░░░░` 55% | Solid |
+| 🔬 Deep Learning | `███████░░░░░░░░░░░░░░` 35% | Early Stage |
 
 ---
 
-<br/>
+## Featured Project
 
-<!--  ═══════════════════════  06 · STATUS  ════════════════════════  -->
+### 🎓 AI Career Mentor
 
-## &ensp;`06` &ensp;Current Status
+> An AI-powered career guidance platform for students who don't know which direction to go — but want to.
 
-<br/>
+**What it does**
+- Recommends personalized career paths based on skills and interests
+- Identifies skill gaps before they become blockers
+- Generates custom AI-powered learning roadmaps
+- Evaluates resumes with a career readiness score
+- Guides students from confused → confident
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Stack** &nbsp;·&nbsp; Python &nbsp;·&nbsp; Scikit-Learn &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; Data Analytics
 
-**🔥 &ensp; Right Now**
-
-```yaml
-actively_learning:
-  - Machine Learning (algorithms + theory)
-  - Generative AI & Large Language Models
-  - Deep Learning fundamentals
-  - Data Structures & Algorithms
-  - Linux & Bash scripting
-  - Software engineering principles
-
-currently_building:
-  - Real-world ML pipelines
-  - AI-powered applications
-  - Portfolio-worthy projects
-
-mindset: ship fast, learn faster
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 &ensp; 2026 Checklist**
-
-```diff
-  Completed
-+ Python & core CS          ✅
-+ NumPy, Pandas, Sklearn    ✅
-+ ML journey started        ✅
-+ First AI project shipped  ✅
-
-  In Progress
-~ Master Machine Learning   🔥
-~ Deep Learning & NLP       🔥
-
-  Queued
-- Win a Hackathon            🏆
-- Contribute to Open Source  🌐
-- Land AI/ML Internship      💼
-- Deploy AI product live     🚀
-- Publish research/writing   📝
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+**Key Takeaway** &nbsp;·&nbsp; Crossing the gap from *learning ML* to *shipping ML* is the most valuable thing I've done as a developer.
 
 ---
 
-<br/>
+## Learning Journey
 
-<!--  ═══════════════════════  07 · PHILOSOPHY  ════════════════════  -->
+| Phase | Focus | Status |
+|:-----:|:------|:------:|
+| **01** | Python basics · Logic · Problem solving · Core CS | ✅ Done |
+| **02** | OOP · Data structures · Algorithms · Java · C++ | ✅ Done |
+| **03** | NumPy · Pandas · Data science · Visualization | ✅ Done |
+| **04** | Machine Learning · Generative AI · Real projects | 🔥 Active |
+| **05** | Deep Learning · NLP · Computer Vision · MLOps | 🔭 Next |
 
-## &ensp;`07` &ensp;How I Think
+---
 
-<br/>
+## Currently
 
-<div align="center">
+**Learning**
+- Machine Learning — algorithms, theory, and application
+- Generative AI and large language models
+- Deep Learning fundamentals
+- Data Structures & Algorithms
+- Linux, Bash, and shell scripting
 
-<table width="88%">
-<tr><td align="center" width="6%">💡</td><td><b>Consistency beats intensity.</b> Showing up small every day compounds into something extraordinary.</td></tr>
-<tr><td align="center">🚀</td><td><b>Don't wait to be ready.</b> You never will be. Build now, refine forever.</td></tr>
-<tr><td align="center">🔥</td><td><b>Failure is scheduled.</b> It's the most reliable teacher in existence — not something to avoid.</td></tr>
-<tr><td align="center">🧠</td><td><b>The best project</b> is the one that teaches you something you genuinely didn't know before.</td></tr>
-<tr><td align="center">🌍</td><td><b>Real impact</b> means building things for people you'll never meet. That's the bar I set for myself.</td></tr>
-</table>
+**2026 Goals**
 
-</div>
+| Goal | Status |
+|:-----|:------:|
+| Master Machine Learning | 🔥 In progress |
+| Complete Deep Learning | ⬜ Queued |
+| Win a Hackathon | ⬜ Queued |
+| Contribute to Open Source | ⬜ Queued |
+| Land an AI / ML Internship | ⬜ Queued |
+| Deploy a live AI product | ⬜ Queued |
 
-<br/>
+---
 
-<div align="center">
+## Principles
+
+**01 · Consistency beats intensity.**
+Show up small, every single day. Compound it over time.
+
+**02 · Don't wait to be ready.**
+You'll never be fully ready. Build now, refine forever.
+
+**03 · The best project teaches you something new.**
+If you already know how to build it, pick a harder one.
+
+**04 · Failure is scheduled, not feared.**
+It's the most reliable teacher and the fastest route to mastery.
+
+**05 · Real impact means building for people you'll never meet.**
+That's the bar I hold myself to.
 
 ```python
-# the only algorithm that matters
-
 while alive:
-    learn()          #  absorb something new
-    build()          #  create something real
-    fail()           #  ← non-negotiable. most important step.
-    improve()        #  grow from it
-    share()          #  pay it forward
-    repeat()         #  ∞
+    learn()
+    build()
+    fail()      # ← most important step
+    improve()
+    repeat()    # ∞
 ```
 
-</div>
+---
 
-<br/>
+## A Few Things About Me
+
+- 🤖 Six-hour AI research sessions with no food breaks — I call that a productive afternoon
+- 🐍 Python isn't a language I use. It's how I think
+- 🌙 My best ideas arrive at 2AM. My brain didn't get the sleep memo
+- ⚽ Football resets everything. Messi is the GOAT. Not debating this 🐐
+- 🚀 Blank `.py` file → working AI model. Best feeling in existence
+- 💥 I don't avoid failure. I schedule it. It's how I actually level up
+- 🌍 Dream: an AI product solving problems for people I'll never meet, worldwide
 
 ---
 
-<br/>
+## Let's Connect
 
-<!--  ═══════════════════════  08 · FUN FACTS  ══════════════════════  -->
+I'm always open to a good conversation — a collab, a hackathon, an internship, an open-source idea, or just talking AI with someone who finds it as exciting as I do.
 
-## &ensp;`08` &ensp;Unfiltered
+<p>
+  <a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/alhajbaig">
+    <img src="https://img.shields.io/badge/Kaggle_Profile-20beff?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/alhaj.bxig">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:alhajbaig2006@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-ea4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center" width="5%">🤖</td>
-<td>Six-hour AI rabbit holes with no food breaks? I call that a <b>productive afternoon</b>.</td>
-</tr>
-<tr>
-<td align="center">🐍</td>
-<td>Python isn't just a language I use — it's genuinely <b>how I think and reason</b>.</td>
-</tr>
-<tr>
-<td align="center">🌙</td>
-<td>My best ideas arrive at <b>2AM sharp</b>. My brain did not get the sleep memo.</td>
-</tr>
-<tr>
-<td align="center">⚽</td>
-<td>Football resets the mental stack. <b>Messi is the GOAT</b>. This is not up for debate. 🐐</td>
-</tr>
-<tr>
-<td align="center">🚀</td>
-<td>The feeling of a blank <code>.py</code> file becoming a working AI model is <b>completely unmatched</b>.</td>
-</tr>
-<tr>
-<td align="center">📚</td>
-<td>A new framework dropping in the AI space is a <b>biological event</b> for me. Instant obsession.</td>
-</tr>
-<tr>
-<td align="center">💥</td>
-<td>I don't avoid failure. I <b>plan for it deliberately</b>. It's the fastest known route to mastery.</td>
-</tr>
-<tr>
-<td align="center">🌍</td>
-<td>The dream: an AI product quietly solving problems for <b>people I'll never meet</b> — worldwide.</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+Open to · AI & ML Projects · Hackathons · Open Source · Internships · Research
 
 ---
 
-<br/>
-
-<!--  ═══════════════════════  09 · CONNECT  ═══════════════════════  -->
-
-## &ensp;`09` &ensp;Let's Connect
-
-<br/>
-
-<div align="center">
-
-*I'm always open — whether it's a collab, a hackathon, an internship,*
-*an open-source project, or just two people who find AI genuinely exciting.*
-*Reach out. Let's build something worth talking about.*
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-060612?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/mirza-alhaj-baig-49b250308)&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle%20Profile-060612?style=for-the-badge&logo=kaggle&logoColor=60a5fa)](https://kaggle.com/alhajbaig)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-060612?style=for-the-badge&logo=instagram&logoColor=60a5fa)](https://instagram.com/alhaj.bxig)&nbsp;[![Email](https://img.shields.io/badge/Send%20an%20Email-060612?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:alhajbaig2006@gmail.com)
-
-<br/>
-
-![](https://img.shields.io/badge/Open%20to-AI%20%26%20ML%20Projects-0a0f2e?style=flat-square)&ensp;![](https://img.shields.io/badge/Open%20to-Hackathons-0a0f2e?style=flat-square)&ensp;![](https://img.shields.io/badge/Open%20to-Open%20Source-0a0f2e?style=flat-square)&ensp;![](https://img.shields.io/badge/Open%20to-Internships-0a0f2e?style=flat-square)&ensp;![](https://img.shields.io/badge/Open%20to-Research-0a0f2e?style=flat-square)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,30:0a0f2e,65:0d1854,100:060612&height=180&section=footer&text=Mirza%20Alhaj%20Baig&fontSize=38&fontColor=ffffff&fontAlignY=50&desc=Learn%20%C2%B7%20Build%20%C2%B7%20Break%20%C2%B7%20Grow%20%C2%B7%20Repeat&descSize=15&descAlignY=72&descColor=93c5fd&animation=fadeIn" />
-
-<sub>Built with focus &ensp;·&ensp; Nagpur, India 🇮🇳 &ensp;·&ensp; <i>If this profile moved you even slightly — go open a file and build something today.</i></sub>
-
-</div>
+<p align="center">
+  <sub>Nagpur, India 🇮🇳 &nbsp;·&nbsp; <em>Learn · Build · Break · Grow · Repeat</em></sub>
+</p>
