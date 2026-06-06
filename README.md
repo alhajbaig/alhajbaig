@@ -1,15 +1,19 @@
-# 👨‍💻 Mirza Alhaj Baig
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+the+Making;Machine+Learning+%7C+Generative+AI+%7C+Python;Building+Projects+That+Matter;Student+By+Day+%F0%9F%8C%9E+Builder+By+Night+%F0%9F%8C%99;Always+Learning.+Always+Building." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,50:0072FF,100:6A5ACD&text=Mirza%20Alhaj%20Baig&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
 </p>
 
+<h1 align="center">⚡ Mirza Alhaj Baig ⚡</h1>
+
 <h3 align="center">
-🤖 AI & Machine Learning Enthusiast • 🐍 Python Developer • 🎓 CSE Student
+AI & Machine Learning Engineer in the Making
 </h3>
 
 <p align="center">
-Building intelligent systems with Machine Learning, Data Science and Generative AI.
+🎓 B.Tech CSE Student • 🤖 AI Enthusiast • 🐍 Python Developer • 🇮🇳 India
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+AI+That+Creates+Impact;Machine+Learning+%7C+Generative+AI;Data+Science+%7C+Deep+Learning;Learning+Every+Day;Dream+Big.+Build+Bigger." />
 </p>
 
 <p align="center">
@@ -26,32 +30,24 @@ Building intelligent systems with Machine Learning, Data Science and Generative 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/alhajbaig">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=alhajbaig&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C6FF,100:0072FF&section=header"/>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
 ```python
 class MirzaAlhajBaig:
 
     def __init__(self):
 
-        self.location = "Nagpur, India 🇮🇳"
+        self.name = "Mirza Alhaj Baig"
 
         self.role = "AI Engineer in the Making"
 
         self.education = "B.Tech Computer Science Engineering"
+
+        self.location = "India 🇮🇳"
 
         self.interests = [
             "Machine Learning",
@@ -62,15 +58,16 @@ class MirzaAlhajBaig:
             "NLP"
         ]
 
-        self.currently_learning = [
-            "Advanced Machine Learning",
+        self.current_focus = [
+            "AI Projects",
+            "Machine Learning",
             "Deep Learning",
-            "MLOps",
-            "LLM Applications"
+            "Hackathons",
+            "Open Source"
         ]
 
         self.goal = (
-            "Build AI products used by millions"
+            "Build AI products used by millions."
         )
 
     def life_motto(self):
@@ -79,37 +76,50 @@ class MirzaAlhajBaig:
 me = MirzaAlhajBaig()
 ```
 
-### 🌟 My Story
+### 🚀 My Journey
 
-My journey started with a simple Python script and endless curiosity.
+My journey into technology started with a simple Python script and endless curiosity.
 
-Today, I'm actively exploring Machine Learning, Data Science, Deep Learning and Generative AI while building projects that transform ideas into practical solutions.
+Since then, I've been continuously exploring Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
-I believe the best way to learn technology is to build something real with it.
+I enjoy turning ideas into projects, solving real-world problems, participating in hackathons, and constantly learning new technologies.
+
+> **"The best way to learn technology is to build something with it."**
 
 ---
 
-# 🧠 What I'm Currently Working On
+# 🎯 Current Focus
 
-- 🤖 Machine Learning Projects
-- 🧠 Deep Learning Fundamentals
-- 📊 Data Science & Analytics
-- 🚀 AI Career Mentor Platform
-- 💡 Hackathon Projects
+### Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Science
+- 💬 Generative AI
+- 👁️ Computer Vision
+- 🗣️ Natural Language Processing
 - 🐧 Linux & DevOps
-- 🌐 Open Source Contributions
+
+### Currently Building
+
+- 🚀 AI Career Mentor
+- 📈 Machine Learning Projects
+- 💡 Hackathon Solutions
+- 🌐 Portfolio Projects
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming Languages
+## 👨‍💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,postgresql"/>
 </p>
 
-## AI & Machine Learning
+---
+
+## 🤖 Artificial Intelligence & Data Science
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
@@ -117,17 +127,21 @@ I believe the best way to learn technology is to build something real with it.
 
 <p align="center">
 
-NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Notebook • Generative AI • Data Analytics
+NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Notebook • Data Analytics • Generative AI
 
 </p>
 
-## Development
+---
+
+## 🌐 Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,flask,nodejs"/>
 </p>
 
-## Tools & Cloud
+---
+
+## ⚙️ Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,gcp,figma"/>
@@ -135,318 +149,164 @@ NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Noteboo
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=alhajbaig&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhajbaig&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alhajbaig&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alhajbaig&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-# 🌟 Featured Project
-
-<div align="center">
-
-## 🎓 AI Career Mentor
-
-### *Turning Career Confusion into Career Clarity with AI*
-
-</div>
-
-<p align="center">
-  <img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:2563eb&height=3"/>
-</p>
-
-### 🚀 Overview
-
-AI Career Mentor is an intelligent career guidance platform designed to help students discover the right career path using Artificial Intelligence and Machine Learning.
-
-The platform analyzes skills, interests, aptitude, and learning preferences to generate personalized career recommendations and learning roadmaps.
-
-### ✨ Key Features
-
-✅ Personalized Career Recommendations
-
-✅ AI-Powered Resume Analysis
-
-✅ Skill Gap Detection
-
-✅ Learning Roadmap Generation
-
-✅ Career Readiness Assessment
-
-✅ Progress Tracking & Insights
-
-✅ Data-Driven Decision Making
-
----
-
-### 🛠️ Tech Stack
-
-```yaml
-Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-
-Backend:
-  - Python
-  - Flask
-
-Machine Learning:
-  - Scikit-Learn
-  - Pandas
-  - NumPy
-
-AI:
-  - Generative AI
-  - Prompt Engineering
-
-Database:
-  - PostgreSQL
-```
-
-### 🎯 What I Learned
-
-Building AI Career Mentor helped me bridge the gap between learning Machine Learning concepts and deploying a complete AI-powered application.
-
-During development, I gained practical experience in:
-
-- Data preprocessing
-- Feature engineering
-- Model integration
-- Prompt engineering
-- Application deployment
-- User experience design
-- Real-world problem solving
-
----
-
-# 🏆 Achievements
-
-### 🎖️ Milestones
-
-- 🚀 Built and deployed AI Career Mentor
-- 🎓 Google AI Skills House Participant
-- 📚 Completed multiple AI & ML courses
-- 💻 Consistently building real-world projects
-- 🏅 Active Hackathon Enthusiast
-- 🌱 Exploring Open Source Contributions
-- 🤖 Focused on becoming an AI Engineer
-
----
-
-# 📜 Certifications
-
-### Current Learning Journey
-
-- Google AI Skills House
-- Coursera AI Courses
-- Machine Learning Specializations
-- Python & Data Science Certifications
-- Generative AI Learning Programs
-
----
-
-# 🎯 2026 Goals
-
-| Goal | Status |
-|--------|---------|
-| Master Machine Learning | 🔥 In Progress |
-| Learn Deep Learning | 🚀 Ongoing |
-| Build Multiple AI Projects | 🔥 Active |
-| Contribute to Open Source | 🎯 Planned |
-| Win a Hackathon | 🎯 Target |
-| Land AI/ML Internship | 🎯 Target |
-| Publish Major AI Project | 🚀 Goal |
-| Build Startup-Level Product | 💡 Vision |
-
----
-
-# 🛣️ Learning Roadmap
+# 📚 Learning Roadmap
 
 ```text
-Python Fundamentals
-        │
-        ▼
+Python
+   │
+   ▼
 Data Structures & Algorithms
-        │
-        ▼
-NumPy & Pandas
-        │
-        ▼
+   │
+   ▼
 Data Science
-        │
-        ▼
+   │
+   ▼
 Machine Learning
-        │
-        ▼
+   │
+   ▼
 Deep Learning
-        │
-        ▼
-NLP & Computer Vision
-        │
-        ▼
+   │
+   ▼
+Generative AI
+   │
+   ▼
 MLOps
-        │
-        ▼
+   │
+   ▼
 AI Engineer
 ```
 
 ---
-
-# 📚 Currently Learning
+# 🌌 AI Engineer Mindset
 
 ```python
-learning = {
+def success():
+    
+    while not achieved:
+        
+        learn()
+        
+        build()
+        
+        fail()
+        
+        improve()
+        
+        try_again()
 
-    "Machine Learning":
-        "Advanced Algorithms",
+    return "Mission Accomplished"
 
-    "Deep Learning":
-        "Neural Networks & CNNs",
-
-    "NLP":
-        "Language Models",
-
-    "Computer Vision":
-        "Image Processing",
-
-    "MLOps":
-        "Deployment & Scaling",
-
-    "Linux":
-        "System Administration"
-}
+print(success())
 ```
 
 ---
 
-# 💭 Philosophy
+# 📈 Current Mission
 
-> ### "The best way to learn technology is to build with it."
+<table>
+<tr>
+<td width="50%">
 
-I believe growth comes from consistent learning, experimentation, failure, and improvement.
+### 🔥 Short Term
 
-Every project teaches something new.
+- Master Machine Learning
+- Complete Deep Learning
+- Build AI Portfolio
+- Participate in Hackathons
+- Contribute to Open Source
 
-Every bug makes you better.
+</td>
 
-Every challenge is an opportunity to level up.
+<td width="50%">
+
+### 🚀 Long Term
+
+- Become AI Engineer
+- Build SaaS Products
+- Work on LLM Applications
+- Create Startup-Level Solutions
+- Impact Millions Through Technology
+
+</td>
+</tr>
+</table>
 
 ---
 
-```python
-while alive:
+# 🧩 Areas of Interest
 
-    learn()
+<p align="center">
 
-    build()
+🧠 Artificial Intelligence
 
-    fail()
+📊 Data Science
 
-    improve()
+🤖 Machine Learning
 
-    repeat()
+💬 Generative AI
+
+👁️ Computer Vision
+
+🗣️ Natural Language Processing
+
+☁️ Cloud & MLOps
+
+🚀 Startups & Innovation
+
+</p>
+
+---
+
+# ⚙️ Developer Environment
+
+```yaml
+Editor:
+  VS Code
+
+Operating System:
+  Linux
+
+Languages:
+  Python
+  Java
+  C++
+  SQL
+
+AI Stack:
+  NumPy
+  Pandas
+  Scikit-Learn
+  TensorFlow
+  PyTorch
+
+Version Control:
+  Git & GitHub
 ```
 
 ---
 
-# ⚡ Fun Facts
+# 🏅 Why I Build
 
-### About Me
+Technology isn't just about writing code.
 
-- 🤖 I can spend hours exploring AI concepts without realizing how much time passed.
-- 🐍 Python isn't just a language I use — it's how I think.
-- 🌙 Most project ideas appear after midnight.
-- ⚽ Football helps me reset and refocus.
-- 🐐 Messi is the GOAT.
-- 🚀 Nothing beats deploying a project that actually works.
-- 📖 I love learning by building.
+It's about solving problems.
 
----
+It's about helping people.
 
-# 🌍 Beyond Coding
+It's about turning ideas into reality.
 
-### Things I Enjoy
-
-- ⚽ Football
-- 📚 Learning New Technologies
-- 🤖 Exploring AI Innovations
-- 🎯 Hackathons
-- 💡 Building Side Projects
-- 🌐 Open Source
+Every project I build teaches me something new, and every challenge pushes me one step closer to becoming the engineer I aspire to be.
 
 ---
 
-# 📈 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to:
-
-- AI & Machine Learning Projects
-- Hackathons
-- Open Source Collaboration
-- Internships
-- Research Opportunities
-- Tech Discussions
-
-<p align="center">
-
-<a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/alhaj.bxig">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:alhajbaig2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
+# 💡 Favorite Quote
 
 <div align="center">
 
-## ⚡ Building the Future with AI, One Project at a Time
+### "The people who are crazy enough to think they can change the world are the ones who do."
 
-### Learn • Build • Fail • Improve • Repeat
+— Steve Jobs
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00C6FF,100:0072FF"/>
-
-<p align="center">
-  <i>Thanks for visiting my profile ❤️</i>
-</p>
+---
