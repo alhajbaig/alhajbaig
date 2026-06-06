@@ -264,7 +264,7 @@ Editor:
   VS Code
 
 Operating System:
-  Linux
+  Windows
 
 Languages:
   Python
