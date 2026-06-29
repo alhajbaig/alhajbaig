@@ -1,312 +1,278 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,50:0072FF,100:6A5ACD&text=Mirza%20Alhaj%20Baig&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    MIRZA ALHAJ BAIG — GitHub README               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">⚡ Mirza Alhaj Baig ⚡</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Machine Learning Engineer in the Making
-</h3>
+<br/>
 
-<p align="center">
-🎓 B.Tech CSE Student • 🤖 AI Enthusiast • 🐍 Python Developer • 🇮🇳 India
-</p>
+```
+███╗   ███╗ ██╗ ██████╗ ███████╗ █████╗      █████╗ ██╗      ██╗  ██╗  █████╗      ██╗
+████╗ ████║ ██║ ██╔══██╗╚══███╔╝██╔══██╗    ██╔══██╗██║      ██║  ██║ ██╔══██╗     ██║
+██╔████╔██║ ██║ ██████╔╝  ███╔╝ ███████║    ███████║██║      ███████║ ███████║     ██║
+██║╚██╔╝██║ ██║ ██╔══██╗ ███╔╝  ██╔══██║    ██╔══██║██║      ██╔══██║ ██╔══██║██   ██║
+██║ ╚═╝ ██║ ██║ ██║  ██║███████╗██║  ██║    ██║  ██║███████╗ ██║  ██║ ██║  ██║╚█████╔╝
+╚═╝     ╚═╝ ╚═╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚════╝
+                                                                 B  A  I  G
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+AI+That+Creates+Impact;Machine+Learning+%7C+Generative+AI;Data+Science+%7C+Deep+Learning;Learning+Every+Day;Dream+Big.+Build+Bigger." />
-</p>
+<br/>
 
-<p align="center">
+**`AI / ML Engineer in the Making`**
 
-<a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://instagram.com/alhaj.bxig">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Building+intelligent+systems%2C+one+model+at+a+time.;Machine+Learning+%E2%80%94+Generative+AI+%E2%80%94+Deep+Learning;Python+%7C+Scikit-Learn+%7C+TensorFlow+%7C+PyTorch;B.Tech+CSE+%E2%80%94+Nagpur%2C+India)](https://git.io/typing-svg)
 
-<a href="mailto:alhajbaig2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirza-alhaj-baig-49b250308)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/alhajbaig)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alhaj.bxig)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alhajbaig2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alhajbaig)
+
+</div>
 
 ---
 
-# 🧠 About Me
+<br/>
+
+## `$ whoami`
 
 ```python
 class MirzaAlhajBaig:
+    name       = "Mirza Alhaj Baig"
+    role       = "AI / ML Engineer — in the making"
+    education  = "B.Tech Computer Science Engineering"
+    location   = "Nagpur, India"
+    timezone   = "Night owl  —  ships code after midnight"
 
-    def __init__(self):
+    stack = {
+        "languages"  : ["Python", "Java", "C++", "SQL"],
+        "ml_core"    : ["Scikit-Learn", "TensorFlow", "PyTorch", "Pandas", "NumPy"],
+        "gen_ai"     : ["LLMs", "Prompt Engineering", "RAG", "Generative Pipelines"],
+        "tools"      : ["Git", "VS Code", "Jupyter", "Linux", "Docker"],
+    }
 
-        self.name = "Mirza Alhaj Baig"
-
-        self.role = "AI Engineer in the Making"
-
-        self.education = "B.Tech Computer Science Engineering"
-
-        self.location = "India 🇮🇳"
-
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Data Science",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP"
-        ]
-
-        self.current_focus = [
-            "AI Projects",
-            "Machine Learning",
-            "Deep Learning",
-            "Hackathons",
-            "Open Source"
-        ]
-
-        self.goal = (
-            "Build AI products used by millions."
-        )
-
-    def life_motto(self):
-        return "Learn → Build → Fail → Improve → Repeat"
-
-me = MirzaAlhajBaig()
+    currently_building = "AI Career Mentor — AI-powered career guidance platform"
+    goal               = "Build AI products that reach millions of people."
+    motto              = "Learn → Build → Fail → Improve → Repeat"
 ```
 
-### 🚀 My Journey
-
-My journey into technology started with a simple Python script and endless curiosity.
-
-Since then, I've been continuously exploring Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-
-I enjoy turning ideas into projects, solving real-world problems, participating in hackathons, and constantly learning new technologies.
-
-> **"The best way to learn technology is to build something with it."**
+<br/>
 
 ---
 
-# 🎯 Current Focus
+<br/>
 
-### Currently Learning
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📊 Data Science
-- 💬 Generative AI
-- 👁️ Computer Vision
-- 🗣️ Natural Language Processing
-- 🐧 Linux & DevOps
-
-### Currently Building
-
-- 🚀 AI Career Mentor
-- 📈 Machine Learning Projects
-- 💡 Hackathon Solutions
-- 🌐 Portfolio Projects
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,postgresql"/>
-</p>
-
----
-
-## 🤖 Artificial Intelligence & Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-<p align="center">
-
-NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Notebook • Data Analytics • Generative AI
-
-</p>
-
----
-
-## 🌐 Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,flask,nodejs"/>
-</p>
-
----
-
-## ⚙️ Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,gcp,figma"/>
-</p>
-
----
-
-# 📚 Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-Data Structures & Algorithms
-   │
-   ▼
-Data Science
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Generative AI
-   │
-   ▼
-MLOps
-   │
-   ▼
-AI Engineer
-```
-
----
-# 🌌 AI Engineer Mindset
-
-```python
-def success():
-    
-    while not achieved:
-        
-        learn()
-        
-        build()
-        
-        fail()
-        
-        improve()
-        
-        try_again()
-
-    return "Mission Accomplished"
-
-print(success())
-```
-
----
-
-# 📈 Current Mission
+## Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🔥 Short Term
+### AI Career Mentor
 
-- Master Machine Learning
-- Complete Deep Learning
-- Build AI Portfolio
-- Participate in Hackathons
-- Contribute to Open Source
+An AI-powered career guidance platform that helps users navigate their professional path through personalized insights and data-driven recommendations.
+
+**Stack:** Python · Scikit-Learn · Pandas · Generative AI
+
+**What it does:**
+- Analyzes user skills, goals, and market trends
+- Generates personalized career roadmaps
+- Provides resume and skill-gap feedback via LLM
+- Data-driven job market insights
 
 </td>
+<td width="40%" align="center">
 
-<td width="50%">
-
-### 🚀 Long Term
-
-- Become AI Engineer
-- Build SaaS Products
-- Work on LLM Applications
-- Create Startup-Level Solutions
-- Impact Millions Through Technology
+```
+┌─────────────────────────┐
+│   AI Career Mentor      │
+│                         │
+│  User Input             │
+│       ↓                 │
+│  Skill Analysis (ML)    │
+│       ↓                 │
+│  Market Data (Pandas)   │
+│       ↓                 │
+│  LLM Recommendations    │
+│       ↓                 │
+│  Personalized Roadmap   │
+└─────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
----
-
-# 🧩 Areas of Interest
-
-<p align="center">
-
-🧠 Artificial Intelligence
-
-📊 Data Science
-
-🤖 Machine Learning
-
-💬 Generative AI
-
-👁️ Computer Vision
-
-🗣️ Natural Language Processing
-
-☁️ Cloud & MLOps
-
-🚀 Startups & Innovation
-
-</p>
+<br/>
 
 ---
 
-# ⚙️ Developer Environment
+<br/>
 
-```yaml
-Editor:
-  VS Code
+## Tech Stack
 
-Operating System:
-  Windows
+<br/>
 
-Languages:
-  Python
-  Java
-  C++
-  SQL
+**Languages**
 
-AI Stack:
-  NumPy
-  Pandas
-  Scikit-Learn
-  TensorFlow
-  PyTorch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Version Control:
-  Git & GitHub
-```
+<br/>
 
----
+**AI / Machine Learning**
 
-# 🏅 Why I Build
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Technology isn't just about writing code.
+<br/>
 
-It's about solving problems.
+**Development & Tools**
 
-It's about helping people.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-It's about turning ideas into reality.
-
-Every project I build teaches me something new, and every challenge pushes me one step closer to becoming the engineer I aspire to be.
+<br/>
 
 ---
 
-# 💡 Favorite Quote
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-### "The people who are crazy enough to think they can change the world are the ones who do."
-
-— Steve Jobs
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=alhajbaig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhajbaig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&langs_count=6" />
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alhajbaig&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=94A3B8" />
+
+</div>
+
+<br/>
+
 ---
+
+<br/>
+
+## Learning Roadmap
+
+```
+  Python Fundamentals ──────────────────────────────── ✅ Done
+         │
+         ▼
+  Data Structures & Algorithms ─────────────────────── ✅ Done
+         │
+         ▼
+  Data Science  (Pandas · NumPy · Matplotlib) ──────── ✅ Done
+         │
+         ▼
+  Machine Learning  (Scikit-Learn · Statistics) ────── ⚡ Active
+         │
+         ▼
+  Deep Learning  (TensorFlow · PyTorch) ────────────── ⚡ Active
+         │
+         ▼
+  Generative AI  (LLMs · RAG · Prompt Engineering) ─── ⚡ Active
+         │
+         ▼
+  MLOps  (Docker · CI/CD · Cloud Deployment) ───────── ⏳ Next
+         │
+         ▼
+  AI Engineer ──────────────────────────────────────── 🎯 Goal
+```
+
+<br/>
+
+---
+
+<br/>
+
+## Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**This Year**
+- Master ML model development end-to-end
+- Complete Deep Learning specialization
+- Ship AI Career Mentor publicly
+- Compete in national-level hackathons
+- First open source contribution
+
+</td>
+<td width="50%" valign="top">
+
+**Long Term**
+- Become a production AI/ML engineer
+- Build SaaS products powered by LLMs
+- Work on frontier AI applications
+- Create technology that impacts millions
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Philosophy
+
+```
+The best way to understand AI is to build with it.
+Not just study it — build something real with it.
+
+Every project teaches what no course can.
+Every failure is the system telling you something true.
+
+Learn → Build → Fail → Improve → Repeat.
+```
+
+<br/>
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+> — Steve Jobs
+
+<br/>
+
+---
+
+<div align="center">
+
+<br/>
+
+`B.Tech CSE · Nagpur, India · AI / ML · Open to Collaborate`
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=alhajbaig&color=6366F1&style=flat-square&label=Profile+Views)](https://github.com/alhajbaig)
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
