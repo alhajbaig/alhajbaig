@@ -1,43 +1,54 @@
-<!-- TOP HEADER / BOOT SEQUENCE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:4338ca&text=SYSTEM.BOOT()&fontSize=30&fontAlignY=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
+<!-- Banner -->
+<p align="center">
+</p>
 
-<div align="center">
-<pre>
-███    ███ ██ ██████  ███████  █████      █████  ██      ██   ██  █████  ██ ███████ 
-████  ████ ██ ██   ██    ███  ██   ██    ██   ██ ██      ██   ██ ██   ██ ██ ██      
-██ ████ ██ ██ ██████    ███   ███████    ███████ ██      ███████ ███████ ██ █████   
-██  ██  ██ ██ ██   ██  ███    ██   ██    ██   ██ ██      ██   ██ ██   ██ ██ ██      
-██      ██ ██ ██   ██ ███████ ██   ██    ██   ██ ███████ ██   ██ ██   ██ ██ ███████ 
-</pre>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=>_Initialize+Alhaj_Baig.exe;>_Loading+B.Tech+CSE+Modules...+[GCOEN];>_Importing+TensorFlow...+PyTorch...+GenAI;>_Status:+Training+Models+&+Lifting+Weights;>_Executing+impactful_code.py)](https://git.io/typing-svg)
+<!-- Intro -->
+<h1 align="center">Hey there 👋, I'm Mirza Alhaj Baig</h1>
+<h3 align="center">🚀 AI/ML Engineer | 💻 DATA ANALYST | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/alhajbaig"><img src="https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:alhajbaig2006@gmail.com"><img src="https://img.shields.io/badge/Ping_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/alhaj.bxig"><img src="https://img.shields.io/badge/Social-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="500" />
 </p>
-</div>
-
-<br/>
-
-> **`[WARNING]`** *You are now accessing the digital brain of an AI/ML Engineer in the making. Expect highly optimized neural networks, the occasional unresolved merge conflict, and an unhealthy dependency on caffeine and chicken shawarma.*
 
 ---
 
-## 👨‍💻 `~ / whoami`
+### 🌟 About Me  
+- 🌱 Currently diving deep into **Machine Learning, Deep Learning, and Generative AI**  
+- 🔭 Working on **Python, TensorFlow, PyTorch, and Full-Stack Engineering**  
+- 💻 Building projects like **AI Career Mentor** and scalable web apps using **Supabase & Firebase**  
+- 🎓 Studying Computer Science and Engineering at **Government College of Engineering Nagpur (GCOEN)**  
+- ⚡ Fun fact: *When I'm not training models, I'm lifting heavy weights at the gym or flying massive kites on rooftops!* 🪁💪  
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Mirza Alhaj Baig"
-        self.location = "Nagpur, India"
-        self.education = "B.Tech in Computer Science & Engineering"
-        self.role = "AI/ML Alchemist & Full-Stack Developer"
-        self.philosophy = "Learn -> Build -> Break -> Panic -> Fix -> Repeat"
+---
 
-    def get_current_status(self):
-        return "Building intelligent systems that actually matter."
+### 📫 Connect with me  
+<p align="left">
+  <a href="https://linkedin.com/in/mirza-alhaj-baig-49b250308" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://github.com/alhajbaig" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+  <a href="https://kaggle.com/alhajbaig" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-logo-color-tal-revivo.png" alt="Kaggle" height="40"/></a>
+  <a href="mailto:alhajbaig2006@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/></a>
+  <a href="https://instagram.com/alhaj.bxig" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+</p>
+
+---
+
+### 🛠 Languages and Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,react,firebase,supabase,git,docker,gcp,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhajbaig&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhajbaig&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhajbaig&theme=tokyonight" height="160" />
+</p>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
