@@ -34,7 +34,7 @@
 
 ### 🛠 Languages and Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,react,firebase,supabase,git,docker,gcp,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,firebase,supabase,git,gcp,tensorflow,pytorch" />
 </p>
 
 ---
